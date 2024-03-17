@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is yousef and i am a front-end developer using react.js<br>i have 2 years experience creating websites and working with teams
+Hello my name is yousef and i am a front-end developer using react.js & next.js <br>i have 3 years experience creating websites and working with teams
 
 
 ## 🌐 Socials:
