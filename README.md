@@ -56,7 +56,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yousef767/yousef767/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=yousef767&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="status">
+</div>
 
 ###
