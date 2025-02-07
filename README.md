@@ -53,8 +53,10 @@
   </a>
 </div>
 
+
 ###
 
+<img src="https://raw.githubusercontent.com/yousef767/yousef767/output/snake.svg" alt="Snake animation" />
 
 
 ###
